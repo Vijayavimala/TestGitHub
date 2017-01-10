@@ -21,6 +21,7 @@ public class NewTest {
 	  System.out.println("Title of Google - "+ text);
 	  Assert.assertEquals(text, "Google");
 	  driver.close();
+	  //Driver comment added
 	  
   }
     
